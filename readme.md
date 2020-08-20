@@ -35,9 +35,3 @@ https://placebear.com/225/224
 https://placebear.com/225/223
 https://placebear.com/225/222
 ```
-
-## Tips
-
-- You may complete this challenge on your own machine before uploading it to Qualified.
-- Reference the related checkpoint for help on completing this Practice problem.
-- If you need help, contact your mentor or speak with your peers in Slack.
