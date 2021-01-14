@@ -9,6 +9,7 @@ To complete this assignment, you will need to build a website that looks similar
 - It should be responsive, as show below.
 
 Your website does _not_ need to have the exact same content. You will be graded based off of your ability to recreate the layout, not the exact text.
+If you would like to use **bear** content - here is a reference [link](https://www.nationalgeographic.com/animals/mammals/group/bears-grizzly-polar-panda/) . (Source: National Geographic. (2019, July 26). Bears)
 
 ### Desktop view
 
