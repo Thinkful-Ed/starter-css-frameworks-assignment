@@ -8,8 +8,7 @@ To complete this assignment, you will need to build a website that looks similar
 - It should have a similar layout and color scheme to the example below.
 - It should be responsive, as show below.
 
-Your website does _not_ need to have the exact same content. You will be graded based off of your ability to recreate the layout, not the exact text.
-If you would like to use **bear** content - here is a reference [link](https://www.nationalgeographic.com/animals/mammals/group/bears-grizzly-polar-panda/) . (Source: National Geographic. (2019, July 26). Bears)
+Your website does _not_ need to have the exact same content. You will be graded based off of your ability to recreate the layout, not your ability to use the exact text and images seen here.
 
 ### Desktop view
 
@@ -27,12 +26,12 @@ On a smaller device, your layout should look similar to the following.
 
 ### Image resources
 
-You are welcome to use whatever appropriate images you like. If you would like to use the same images as the ones in the example, you may use the links below.
+If you would like to use bear content, here are some [images from National Geographic](https://www.nationalgeographic.com/animals/mammals/group/bears-grizzly-polar-panda/) of several types of bears. Or maybe you'd like to use [these photos of kittens](http://placekitten.com/)!
 
-```
+<!-- Commenting out these images until the links may become available: 
 https://placebear.com/490/480
 https://placebear.com/225/225
 https://placebear.com/225/224
 https://placebear.com/225/223
 https://placebear.com/225/222
-```
+--> 
