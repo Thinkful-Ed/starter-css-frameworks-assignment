@@ -26,7 +26,7 @@ On a smaller device, your layout should look similar to the following.
 
 ### Image resources
 
-If you would like to use bear content, here are some [images from National Geographic](https://www.nationalgeographic.com/animals/mammals/group/bears-grizzly-polar-panda/) of several types of bears. Or maybe you'd like to use [these photos of kittens](http://placekitten.com/)!
+You are welcome to use whatever appropriate images you like. If you would like to use bear content, here are some [images from National Geographic](https://www.nationalgeographic.com/animals/mammals/group/bears-grizzly-polar-panda/) of several types of bears. Or maybe you'd like to use [these photos of kittens](http://placekitten.com/)!
 
 <!-- Commenting out these images until the links may become available: 
 https://placebear.com/490/480
